@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CodeListing_2_11/CodeListing_2_11.iml" filepath="$PROJECT_DIR$/CodeListing_2_11/CodeListing_2_11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CodeListing_2_9/CodeListing_2_9.iml" filepath="$PROJECT_DIR$/CodeListing_2_9/CodeListing_2_9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DriverLicense/DriverLicense.iml" filepath="$PROJECT_DIR$/DriverLicense/DriverLicense.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Email v1/Email v1.iml" filepath="$PROJECT_DIR$/Email v1/Email v1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise 1.02/Exercise 1.02.iml" filepath="$PROJECT_DIR$/Exercise 1.02/Exercise 1.02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise 1.04/Exercise 1.04.iml" filepath="$PROJECT_DIR$/Exercise 1.04/Exercise 1.04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise 2.01/Exercise 2.01.iml" filepath="$PROJECT_DIR$/Exercise 2.01/Exercise 2.01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise 2.02/Exercise 2.02.iml" filepath="$PROJECT_DIR$/Exercise 2.02/Exercise 2.02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise 2.04/Exercise 2.04.iml" filepath="$PROJECT_DIR$/Exercise 2.04/Exercise 2.04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise 2.05/Exercise 2.05.iml" filepath="$PROJECT_DIR$/Exercise 2.05/Exercise 2.05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise 2.06/Exercise 2.06.iml" filepath="$PROJECT_DIR$/Exercise 2.06/Exercise 2.06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise1_01/Exercise1_01.iml" filepath="$PROJECT_DIR$/Exercise1_01/Exercise1_01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise1_03/Exercise1_03.iml" filepath="$PROJECT_DIR$/Exercise1_03/Exercise1_03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise2_03/Exercise2_03.iml" filepath="$PROJECT_DIR$/Exercise2_03/Exercise2_03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NimGame'/NimGame'.iml" filepath="$PROJECT_DIR$/NimGame'/NimGame'.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RectangleExampleInClass/RectangleExampleInClass.iml" filepath="$PROJECT_DIR$/RectangleExampleInClass/RectangleExampleInClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SDJ1.iml" filepath="$PROJECT_DIR$/SDJ1.iml" />
+    </modules>
+  </component>
+</project>
